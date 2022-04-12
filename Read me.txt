@@ -1,0 +1,3 @@
+To run the code just run the command "npm i" in the terminal.
+
+Made by Mohammad Sohail Hasan
